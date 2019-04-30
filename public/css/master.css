@@ -1,0 +1,42 @@
+/*Developed By Mehedi*/
+.t-top{
+    margin: 0px 10px 20px 10px;
+}
+.f-con{
+    margin-top: 15px;
+}
+
+.f-top{
+    margin: 25px 0px 0px 0px;
+}
+
+.f-title{
+    text-align: center;
+    font-family: Monospace;
+    font-size: 30px;
+    border-bottom: 1px solid #9ba9b78c;
+}
+.f-row{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.f-label{
+    padding-top: 7px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.btn-success:hover{
+    border-color: #fa1818;
+    background-color: #fa1818;
+
+    transition: .9s all 0s ease;
+    -moz-transition: .9s all 0s ease;
+    -o-transition: .9s all 0s ease;
+    -webkit-transition: .9s all 0s ease;
+}
